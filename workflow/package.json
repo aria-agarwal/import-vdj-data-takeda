@@ -1,6 +1,6 @@
 {
   "name": "@platforma-takeda/takeda.import-vdj-takeda.workflow",
-  "version": "1.15.4",
+  "version": "1.0.0",
   "description": "Block Workflow",
   "type": "module",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "@platforma-takeda/takeda.import-vdj-takeda.ui",
-  "version": "1.11.3",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "ts-builder serve --target block-ui",

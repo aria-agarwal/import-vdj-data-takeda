@@ -1,6 +1,6 @@
 {
   "name": "@platforma-takeda/takeda.import-vdj-takeda",
-  "version": "1.6.5",
+  "version": "1.0.0",
   "files": [
     "index.d.ts",
     "index.js"

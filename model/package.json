@@ -1,6 +1,6 @@
 {
   "name": "@platforma-takeda/takeda.import-vdj-takeda.model",
-  "version": "1.10.2",
+  "version": "1.0.0",
   "description": "Block model",
   "type": "module",
   "main": "dist/index.cjs",
