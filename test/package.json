@@ -1,5 +1,5 @@
 {
-  "name": "@platforma-open/milaboratories.import-vdj.test",
+  "name": "@platforma-takeda/takeda.import-vdj-takeda.test",
   "version": "1.4.0",
   "private": true,
   "description": "Block tests",
@@ -12,7 +12,7 @@
     "check": "ts-builder check --target block-test"
   },
   "dependencies": {
-    "this-block": "workspace:@platforma-open/milaboratories.import-vdj@*"
+    "this-block": "workspace:@platforma-takeda/takeda.import-vdj-takeda@*"
   },
   "devDependencies": {
     "@milaboratories/ts-builder": "catalog:",

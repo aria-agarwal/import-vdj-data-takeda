@@ -1,5 +1,5 @@
 {
-  "name": "@platforma-open/milaboratories.import-vdj.ui",
+  "name": "@platforma-takeda/takeda.import-vdj-takeda.ui",
   "version": "1.11.3",
   "type": "module",
   "scripts": {
@@ -11,9 +11,9 @@
     "check": "ts-builder check --target block-ui"
   },
   "dependencies": {
-    "@platforma-open/milaboratories.import-vdj.model": "workspace:*",
     "@platforma-sdk/model": "catalog:",
     "@platforma-sdk/ui-vue": "catalog:",
+    "@platforma-takeda/takeda.import-vdj-takeda.model": "workspace:*",
     "vue": "catalog:"
   },
   "devDependencies": {

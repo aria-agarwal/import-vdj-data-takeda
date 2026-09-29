@@ -1,4 +1,4 @@
-import { model } from "@platforma-open/milaboratories.import-vdj.model";
+import { model } from "@platforma-takeda/takeda.import-vdj-takeda.model";
 import { defineApp } from "@platforma-sdk/ui-vue";
 import MainPage from "./pages/MainPage.vue";
 import { watch } from "vue";

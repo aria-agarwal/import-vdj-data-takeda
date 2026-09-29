@@ -1,5 +1,5 @@
 {
-  "name": "@platforma-open/milaboratories.import-vdj",
+  "name": "@platforma-takeda/takeda.import-vdj-takeda",
   "version": "1.6.5",
   "files": [
     "index.d.ts",
@@ -13,9 +13,9 @@
     "do-pack": "shx rm -f *.tgz && block-tools pack && pnpm pack && shx mv *.tgz package.tgz"
   },
   "dependencies": {
-    "@platforma-open/milaboratories.import-vdj.model": "workspace:*",
-    "@platforma-open/milaboratories.import-vdj.ui": "workspace:*",
-    "@platforma-open/milaboratories.import-vdj.workflow": "workspace:*",
+    "@platforma-takeda/takeda.import-vdj-takeda.model": "workspace:*",
+    "@platforma-takeda/takeda.import-vdj-takeda.ui": "workspace:*",
+    "@platforma-takeda/takeda.import-vdj-takeda.workflow": "workspace:*",
     "@platforma-sdk/model": "catalog:"
   },
   "devDependencies": {
@@ -25,9 +25,9 @@
   "packageManager": "pnpm@9.14.4",
   "block": {
     "components": {
-      "workflow": "@platforma-open/milaboratories.import-vdj.workflow/dist/tengo/tpl/main.plj.gz",
-      "model": "@platforma-open/milaboratories.import-vdj.model/dist/model.json",
-      "ui": "@platforma-open/milaboratories.import-vdj.ui/dist"
+      "workflow": "@platforma-takeda/takeda.import-vdj-takeda.workflow/dist/tengo/tpl/main.plj.gz",
+      "model": "@platforma-takeda/takeda.import-vdj-takeda.model/dist/model.json",
+      "ui": "@platforma-takeda/takeda.import-vdj-takeda.ui/dist"
     },
     "meta": {
       "title": "Import-VDJ-Takeda",
